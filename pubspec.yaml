@@ -65,6 +65,8 @@ flutter:
    - assets/Douma.jpg
    - assets/mobilenet_v1_1.0_224.txt
    - assets/mobilenet_v1_1.0_224.tflite
+   - assets/model_unquant.tflite
+   - assets/labels.txt
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
