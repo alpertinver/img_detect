@@ -1,16 +1,15 @@
 # img_detect
 
-A new Flutter project.
+A new Image Detection for Demans MR with Machine learning project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project includes an image processing application developed using Flutter. Its purpose is to assist the user to detect and control cancer cells.
 
-A few resources to get you started if this is your first Flutter project:
+The project works together with a user-friendly interface. Users can take images of cancer cells using their device such as a smartphone or tablet. The application takes images taken by the user and analyzes them using image processing algorithms to detect cancer cells.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Image processing algorithms classify cancer cells according to certain characteristics to detect them. These features are parameters that represent different characteristics of cancerous tissue. Algorithms can perform operations on images and use techniques such as threshold values, color analysis or shape analysis to identify cancer cells.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application visually presents users with the result of the presence or absence of cancer cells. Thus, users can detect potentially cancerous areas and take appropriate steps for early detection.
+
+This project aims to combine image processing and Flutter technologies to provide a useful tool for users in the process of detecting and controlling cancer cells.
