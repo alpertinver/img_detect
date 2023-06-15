@@ -1,16 +1,15 @@
-# img_detect
+# IMG_MachineLearning_for_DEMANS
 
-A new Flutter project.
+A new Image Detection for Demans MR with Machine learning project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project includes an image manipulation program that uses Flutter. The goal is to help passersby to track and control the progression of dementia by analyzing MR (Magnetic Resonance) images.
 
-A few resources to get you started if this is your first Flutter project:
+The application works together in a user-friendly way. Users can install MR images from the application. The app takes the uploaded image and analyzes the progression of dementia using image processing.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Image processing samplings reveal different features from MR images. These features play an important role in determining the progression of dementia. Algorithms perform operations on images, securing brain regions and taking measurements to broaden the progression of dementia.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app provides a visual feedback on the progress of the add-on dementia. Thus, users can follow their patients' brain care of dementia patients and arrange appropriate care.
+
+This project consists of combining image processing and Flutter technologies to provide a tool that can be used by the user who wants to check the progress of dementia through MR image.
