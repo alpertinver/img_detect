@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
 import 'package:tflite/tflite.dart';
 import 'main.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -93,7 +94,7 @@ class HomePageState extends State<HomePage> {
       home: SafeArea(
         child: Scaffold(
           body: Container(
-            decoration: const BoxDecoration(
+            decoration: BoxDecoration(
               image: DecorationImage(
                   image: AssetImage("assets/background.jpg"),
                   fit: BoxFit.cover),
@@ -102,14 +103,6 @@ class HomePageState extends State<HomePage> {
               children: [
                 Stack(
                   children: [
-                    Center(
-                      child: Container(
-                        color: Colors.black,
-                        height: 110,
-                        width: 110,
-                        child: Image.asset("assets/Douma.jpg"),
-                      ),
-                    ),
                     Center(
                       child: TextButton(
                         onPressed: () {
