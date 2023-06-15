@@ -1,15 +1,15 @@
-# img_detect
+# IMG_MachineLearning_for_DEMANS
 
 A new Image Detection for Demans MR with Machine learning project.
 
 ## Getting Started
 
-This project includes an image processing application developed using Flutter. Its purpose is to assist the user to detect and control cancer cells.
+This project includes an image manipulation program that uses Flutter. The goal is to help passersby to track and control the progression of dementia by analyzing MR (Magnetic Resonance) images.
 
-The project works together with a user-friendly interface. Users can take images of cancer cells using their device such as a smartphone or tablet. The application takes images taken by the user and analyzes them using image processing algorithms to detect cancer cells.
+The application works together in a user-friendly way. Users can install MR images from the application. The app takes the uploaded image and analyzes the progression of dementia using image processing.
 
-Image processing algorithms classify cancer cells according to certain characteristics to detect them. These features are parameters that represent different characteristics of cancerous tissue. Algorithms can perform operations on images and use techniques such as threshold values, color analysis or shape analysis to identify cancer cells.
+Image processing samplings reveal different features from MR images. These features play an important role in determining the progression of dementia. Algorithms perform operations on images, securing brain regions and taking measurements to broaden the progression of dementia.
 
-The application visually presents users with the result of the presence or absence of cancer cells. Thus, users can detect potentially cancerous areas and take appropriate steps for early detection.
+The app provides a visual feedback on the progress of the add-on dementia. Thus, users can follow their patients' brain care of dementia patients and arrange appropriate care.
 
-This project aims to combine image processing and Flutter technologies to provide a useful tool for users in the process of detecting and controlling cancer cells.
+This project consists of combining image processing and Flutter technologies to provide a tool that can be used by the user who wants to check the progress of dementia through MR image.
