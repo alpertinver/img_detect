@@ -13,3 +13,4 @@ Image processing samplings reveal different features from MR images. These featu
 The app provides a visual feedback on the progress of the add-on dementia. Thus, users can follow their patients' brain care of dementia patients and arrange appropriate care.
 
 This project consists of combining image processing and Flutter technologies to provide a tool that can be used by the user who wants to check the progress of dementia through MR image.
+![image](https://github.com/alpertinver/img_detect/assets/121678825/145ed9b0-3913-4e86-a971-aa4113e53368)
